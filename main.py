@@ -1,4 +1,4 @@
-# neuro network pratice for myself, its bad 
+# neural network pratice for myself, its bad 
 
 import numpy as np
 from tqdm import tqdm
