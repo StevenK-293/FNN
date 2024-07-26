@@ -1,3 +1,5 @@
+# neuro network pratice for myself, its bad 
+
 import numpy as np
 from tqdm import tqdm
 import matplotlib.pyplot as plt
